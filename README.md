@@ -82,7 +82,7 @@ myplot_20251109_125506.png
 ```bash
 # Clone o repositório
 git clone https://github.com/alemiti7/Nuvem-Embaralhada-CloudShuffle-.git
-cd wordcloud-generator
+cd Nuvem-Embaralhada-CloudShuffle-
 
 # Instale as dependências
 pip install -r requirements.txt
