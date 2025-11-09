@@ -480,16 +480,6 @@ Contribuições são bem-vindas! Siga estas etapas:
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
-```
-MIT License
-
-Copyright (c) 2025 Alexandre Mitsuru Nikaitow
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...
-```
-
 ---
 
 ## 🙏 Agradecimentos
