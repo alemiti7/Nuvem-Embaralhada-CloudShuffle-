@@ -100,8 +100,8 @@ Flash, Aquaman
 Edite as linhas 66-68 do script:
 
 ```python
-file_path = 'seu_arquivo.csv'      # Nome do seu arquivo
-column_name = 'sua_coluna'         # Nome da coluna a processar
+file_path = 'heroes_information.csv'      # Nome do seu arquivo
+column_name = 'name'         # Nome da coluna a processar
 CHUNK_SIZE = 50000                 # Ajuste conforme necessário
 ```
 
