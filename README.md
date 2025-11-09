@@ -34,24 +34,40 @@ Um gerador de nuvem de palavras otimizado para processar grandes datasets CSV co
 
 ### Entrada (CSV)
 ```csv
-name
-Batman, Superman, Wonder Woman
-Spider-Man, Iron Man
-Flash, Aquaman, Cyborg
-...
+heroes_information.csv
 ```
+<img width="824" height="176" alt="Captura de Tela 2025-11-09 às 13 26 23" src="https://github.com/user-attachments/assets/0f085b61-8643-4799-b8ef-13f657a83215" />
+
+<img width="979" height="528" alt="Captura de Tela 2025-11-09 às 13 14 56" src="https://github.com/user-attachments/assets/7f80b687-0cc4-4b3e-999e-9cb669c49fe7" />
+
 
 ### Saída
 - **Arquivos gerados**: `myplot_20251109_143025.png`, `myplot_20251109_150133.png`, etc.
 - **Cada execução**: Visualização única com termos embaralhados
 - **Log detalhado**: `script_wordcloud.log`
 
-### Exemplos de Visualizações
+### Exemplos de imagens geradas
 
-| Execução 1 | Execução 2 | Execução 3 |
-|------------|------------|------------|
-| ![Exec1](https://via.placeholder.com/200x150/4A90E2/FFFFFF?text=Batman+Grande) | ![Exec2](https://via.placeholder.com/200x150/E24A4A/FFFFFF?text=Flash+Grande) | ![Exec3](https://via.placeholder.com/200x150/4AE290/FFFFFF?text=Superman+Grande) |
-| Batman em destaque | Flash em destaque | Superman em destaque |
+<img width="1024" height="768" alt="myplot_20251109_121731" src="https://github.com/user-attachments/assets/b09e2333-0518-445d-8644-236282fb2f91" />
+
+```png
+myplot_20251109_121731.png
+```
+
+
+<img width="1024" height="768" alt="myplot_20251109_125235" src="https://github.com/user-attachments/assets/7c370202-98a7-448f-afe2-e43b24685c1b" />
+
+```png
+myplot_20251109_125235.png
+```
+
+
+<img width="1024" height="768" alt="myplot_20251109_125506" src="https://github.com/user-attachments/assets/f426abb6-4da3-4e09-8c0b-ca9577226a8d" />
+
+```png
+myplot_20251109_125506.png
+```
+
 
 > **Nota**: Mesmos dados, visualizações diferentes a cada execução!
 
@@ -95,6 +111,9 @@ Batman, Superman
 Spider-Man, Iron Man, Thor
 Flash, Aquaman
 ```
+<img width="979" height="528" alt="Captura de Tela 2025-11-09 às 13 14 56" src="https://github.com/user-attachments/assets/ce1b1109-46fa-480b-acd3-3c5d58852232" />
+
+
 
 ### 2. Configurar o Script
 Edite as linhas 66-68 do script:
