@@ -1,4 +1,4 @@
-# 🎨 WordCloud Generator with Randomization & Timestamp
+# 🎨 Gerador de Nuvem de Palavras com Randomização e Timestamp
 
 ![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
