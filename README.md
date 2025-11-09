@@ -107,7 +107,7 @@ CHUNK_SIZE = 50000                 # Ajuste conforme necessário
 
 ### 3. Executar
 ```bash
-python wordcloud_generator.py
+python main.py
 ```
 
 ### 4. Resultado
@@ -326,7 +326,7 @@ Linha 68:
 random.seed(42)  # Sempre a mesma visualização
 ```
 
-### Formato de Timestamp Customizado
+### Caso deseje customizar o formato de Timestamp:
 
 Linha 282:
 ```python
@@ -464,7 +464,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 ```
 MIT License
 
-Copyright (c) 2025 [Seu Nome]
+Copyright (c) 2025 Alexandre Mitsuru Nikaitow
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -480,18 +480,20 @@ in the Software without restriction...
 - [scikit-learn](https://scikit-learn.org/) pelas ferramentas de vetorização
 - Comunidade Python por feedback e sugestões
 
----
+## 🤝 Contribuindo
 
-## 📞 Contato
+Formas de contribuir:
+- Sugerir melhorias e reportar bugs
+- Compartilhar scripts de automação do SEI!
 
-- **GitHub**: [@seu-usuario](https://github.com/seu-usuario)
-- **Email**: seu.email@exemplo.com
-- **LinkedIn**: [Seu Nome](https://linkedin.com/in/seu-perfil)
+## ✒️ Autores e Contato
 
----
+* ** Alexandre Mitsuru Nikaitow ** - *Desenvolvimento Inicial* - https://github.com/alemiti7
+📧 alemiti@gmail.com
+⌨️ com ❤️ por [@alemiti7]([https://github.com/alemiti7]) 😊
 
-⭐ **Se este projeto foi útil, deixe uma estrela!** ⭐
+## 📄 Licença
 
----
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes.
 
 **Última atualização**: Novembro 2025
