@@ -1,0 +1,25 @@
+2025-11-09 12:17:35 - INFO - --- Início da execução do script de Nuvem de Palavras (COM RANDOMIZAÇÃO) ---
+2025-11-09 12:17:35 - INFO - Configuração: Arquivo='heroes_information.csv', Coluna='name', Chunk=50000
+2025-11-09 12:17:35 - INFO - 🎲 Modo de randomização ativado
+2025-11-09 12:17:35 - INFO - Estruturas de dados inicializadas para processamento em chunks.
+2025-11-09 12:17:35 - INFO - Iniciando leitura do arquivo em chunks...
+2025-11-09 12:17:35 - INFO - Processando chunk 1 (734 linhas)...
+2025-11-09 12:17:35 - INFO -   → Chunk 1: 734 linhas válidas de 734
+2025-11-09 12:17:35 - INFO -   → Chunk 1: 715 termos únicos encontrados
+2025-11-09 12:17:35 - INFO -   ✅ Chunk 1 processado. Total de termos únicos: 715
+2025-11-09 12:17:35 - INFO - ✅ Todos os chunks processados com sucesso!
+2025-11-09 12:17:35 - INFO - 📊 ESTATÍSTICAS FINAIS:
+2025-11-09 12:17:35 - INFO -   - Total de chunks processados: 1
+2025-11-09 12:17:35 - INFO -   - Total de linhas no arquivo: 734
+2025-11-09 12:17:35 - INFO -   - Total de linhas válidas (sem NaN): 734
+2025-11-09 12:17:35 - INFO -   - Total de termos únicos: 715
+2025-11-09 12:17:35 - INFO -   - Taxa de linhas válidas: 100.00%
+2025-11-09 12:17:35 - INFO - Validação concluída. Prosseguindo com 715 termos.
+2025-11-09 12:17:35 - INFO - 🎲 Aplicando randomização nas frequências...
+2025-11-09 12:17:35 - INFO - ✅ Frequências randomizadas. 715 termos redistribuídos.
+2025-11-09 12:17:35 - INFO - 🎯 Preview - Termos mais frequentes após randomização: ['ultron', 'jean-luc picard', 'gravity', 'spyke', 'hela', 'namorita', 'air-walker', 'mr incredible', 'giant-man', 'walrus']
+2025-11-09 12:17:35 - INFO - Gerando nuvem de palavras a partir das frequências randomizadas...
+2025-11-09 12:17:43 - INFO - Objeto WordCloud gerado com sucesso a partir das frequências randomizadas.
+2025-11-09 12:17:43 - INFO - 📁 Nome do arquivo gerado: myplot_20251109_121743.png
+2025-11-09 12:17:44 - INFO - Nuvem de palavras salva com sucesso como 'myplot_20251109_121743.png'.
+2025-11-09 12:17:44 - INFO - --- Fim da execução do script (COM RANDOMIZAÇÃO) ---
