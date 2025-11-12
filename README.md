@@ -476,10 +476,6 @@ Contribuições são bem-vindas! Siga estas etapas:
 - [ ] Testes unitários
 - [ ] Documentação em inglês
 
-## 📄 Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
 ---
 
 ## 🙏 Agradecimentos
@@ -503,6 +499,6 @@ Formas de contribuir:
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 **Última atualização**: Novembro 2025
