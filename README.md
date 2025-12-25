@@ -485,17 +485,17 @@ Contribuições são bem-vindas! Siga estas etapas:
 - [scikit-learn](https://scikit-learn.org/) pelas ferramentas de vetorização
 - Comunidade Python por feedback e sugestões
 
-## 🤝 Contribuindo
+## 🤝 Contribuindo:
 
 Formas de contribuir:
 - Sugerir melhorias e reportar bugs
-- Compartilhar scripts de automação do SEI!
 
-## ✒️ Autores e Contato
 
-* ** Alexandre Mitsuru Nikaitow ** - *Desenvolvimento Inicial* - https://github.com/alemiti7
-📧 alemiti@gmail.com
-⌨️ com ❤️ por [@alemiti7]([https://github.com/alemiti7]) 😊
+## Contato:
+
+* ** Alexandre
+alemiti@gmail.com
+😊
 
 ## 📄 Licença
 
